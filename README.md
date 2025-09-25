@@ -5,5 +5,17 @@
 The Marketing Campaign Predictor is a cutting-edge AI + Deep Learning web app that predicts if a customer will respond to a marketing campaign.
 
 ✨ Built with Streamlit, TensorFlow, and Scikit-learn, it combines numeric, categorical, and text data into one powerful fusion model.
+<h1>📂 Project Structure</h1>
+marketing_campaign_predictor/
+│
+├── data/                  # Dataset (CSV)
+├── notebooks/             # Jupyter notebooks (EDA & Training)
+├── models/                # Trained model + preprocessing objects
+├── scripts/               # Preprocessing + training scripts
+├── app/                   # Streamlit web app
+├── requirements.txt       # Dependencies
+└── README.md              # Documentation
+
+
 
 
