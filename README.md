@@ -9,7 +9,7 @@ The Marketing Campaign Predictor is a cutting-edge AI + Deep Learning web app th
 
 marketing_campaign_predictor/
 
-│
+
 ├── data/                                      # Dataset (CSV)
 
 ├── notebooks/                                 # Jupyter notebooks (EDA & Training)
@@ -23,6 +23,14 @@ marketing_campaign_predictor/
 ├── requirements.txt                           # Dependencies
 
 └── README.md                                  # Documentation
+<h1>✨ Features</h1>
+
+✅ Real-time AI predictions – customer response likelihood
+✅ Fusion Model – numeric + categorical + text data
+✅ Interactive Streamlit UI – simple and fast
+✅ Reusable Encoders/Scalers – saved as .pkl files
+✅ Deploy-ready – can run on Streamlit Cloud
+
 
 
 
