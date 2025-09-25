@@ -77,7 +77,9 @@ streamlit run app/app.py
 <h1>✨ Made with using Python, TensorFlow & Streamlit.</h1>
 
 Mohammed Faiz Raza
+
 razafaiz003@gmail.com
+
 
 
 
