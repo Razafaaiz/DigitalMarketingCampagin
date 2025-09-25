@@ -26,10 +26,55 @@ marketing_campaign_predictor/
 <h1>✨ Features</h1>
 
 ✅ Real-time AI predictions – customer response likelihood
+
 ✅ Fusion Model – numeric + categorical + text data
+
 ✅ Interactive Streamlit UI – simple and fast
+
 ✅ Reusable Encoders/Scalers – saved as .pkl files
+
 ✅ Deploy-ready – can run on Streamlit Cloud
+<h1>⚙️ Installation</h1>
+
+🔹 1. Clone the Repo
+
+git clone https://github.com/your-username/marketing_campaign_predictor.git
+
+cd marketing_campaign_predictor
+
+🔹 2. Create Virtual Environment
+
+python -m venv venv
+
+source venv/bin/activate   # Mac/Linux
+
+venv\Scripts\activate      # Windows
+
+🔹 3. Install Dependencies
+
+pip install -r requirements.txt
+<h1>▶️ Usage</h1>
+
+Run the Streamlit app:
+
+streamlit run app/app.py
+
+👉 Open http://localhost:8501  in your browser.
+<h1>🛣️ Roadmap</h1>
+
+ Data Preprocessing
+
+ Train Fusion Model
+
+ Build Streamlit App
+
+ Add deployment guide
+
+ Integrate advanced NLP embeddings
+ <h1>📜 License</h1>
+
+📌 Licensed under the MIT License.
+<h1>✨ Made with using Python, TensorFlow & Streamlit.</h1>
 
 
 
