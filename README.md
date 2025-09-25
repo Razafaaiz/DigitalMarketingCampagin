@@ -8,6 +8,7 @@ The Marketing Campaign Predictor is a cutting-edge AI + Deep Learning web app th
 <h1>📂 Project Structure</h1>
 
 marketing_campaign_predictor/
+
 │
 ├── data/                                      # Dataset (CSV)
 
@@ -22,6 +23,7 @@ marketing_campaign_predictor/
 ├── requirements.txt                           # Dependencies
 
 └── README.md                                  # Documentation
+
 
 
 
